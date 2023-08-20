@@ -11,7 +11,7 @@
     "dev": "tsup --watch"
   },
   "dependencies": {
-    "@stripe/react-stripe-js": "1.16.4",
+    "@stripe/react-stripe-js": "1.16.5",
     "@stripe/stripe-js": "1.46.0",
     "prop-types": "15.8.1",
     "qs": "6.11.0",
