@@ -7,7 +7,7 @@
   "private": true,
   "dependencies": {
     "@udecode/plate-common": "^21.1.5",
-    "zod": "3.21.4"
+    "zod": "3.22.3"
   },
   "devDependencies": {
     "@typebot.io/prisma": "workspace:*",
