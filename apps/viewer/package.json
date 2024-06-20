@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@planetscale/database": "^1.8.0",
-    "@sentry/nextjs": "7.58.1",
+    "@sentry/nextjs": "8.10.0",
     "@trpc/server": "10.34.0",
     "@typebot.io/prisma": "workspace:*",
     "@typebot.io/nextjs": "workspace:*",
